@@ -1,0 +1,25 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-family: 'Ravi Prakash', cursive;
+    font-size: 24px;
+}
+main header {
+    text-transform: uppercase;
+    text-align: center;
+}
+.box {
+    margin: auto;
+    width: 600px;
+    height: 350px;
+    border: 3px solid white;
+    padding: 5px;
+}
+.button-div {
+    margin: auto;
+    padding: 5px;
+    border: 3px solid white;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+}
